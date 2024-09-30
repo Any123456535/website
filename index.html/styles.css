@@ -20,7 +20,7 @@
 
     #no{color:red;}
     #yes{color:green;}
-    img{height: 80px; width: 80px;
+    img{height: 90px; width: 90px;
     animation: heart 4s linear infinite;}
 
 @keyframes heart{
