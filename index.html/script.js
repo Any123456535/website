@@ -8,6 +8,6 @@ message.addEventListner('click', () => {
         message.inner.html = "I love you infinity!";
     }
     else{
-        message.inner.html = "I will wait for you all my life";
+        message.inner.html = "No worry, I will wait for you all my life";
     }
 });
